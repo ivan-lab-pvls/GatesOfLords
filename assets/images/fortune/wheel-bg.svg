@@ -1,0 +1,31 @@
+<svg width="360" height="361" viewBox="0 0 360 361" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="180" cy="180.184" r="178.5" fill="url(#paint0_linear_11910_9312)" stroke="url(#paint1_linear_11910_9312)" stroke-width="3"/>
+<circle cx="180" cy="180.184" r="167" fill="url(#paint2_linear_11910_9312)"/>
+<circle cx="180" cy="180.184" r="165" fill="#0A0815"/>
+<defs>
+<linearGradient id="paint0_linear_11910_9312" x1="180" y1="3.18384" x2="180" y2="357.184" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD600"/>
+<stop offset="0.186666" stop-color="#CE3100"/>
+<stop offset="0.296666" stop-color="#FFE600"/>
+<stop offset="0.446666" stop-color="#FFDF35"/>
+<stop offset="0.581666" stop-color="#B92100"/>
+<stop offset="0.766666" stop-color="#FFB801"/>
+<stop offset="0.916666" stop-color="#904500"/>
+<stop offset="1" stop-color="#FFE81A"/>
+</linearGradient>
+<linearGradient id="paint1_linear_11910_9312" x1="180" y1="3.18384" x2="180" y2="357.184" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE600"/>
+<stop offset="0.17" stop-color="#C42F00"/>
+<stop offset="0.395" stop-color="#FFF500"/>
+<stop offset="0.645" stop-color="#B14000"/>
+<stop offset="0.805" stop-color="#FFF500"/>
+<stop offset="1" stop-color="#994900"/>
+</linearGradient>
+<linearGradient id="paint2_linear_11910_9312" x1="180" y1="13.1838" x2="180" y2="347.184" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AE2900"/>
+<stop offset="0.256666" stop-color="#FFD600"/>
+<stop offset="0.476666" stop-color="#E89900"/>
+<stop offset="1" stop-color="#E56E00"/>
+</linearGradient>
+</defs>
+</svg>
