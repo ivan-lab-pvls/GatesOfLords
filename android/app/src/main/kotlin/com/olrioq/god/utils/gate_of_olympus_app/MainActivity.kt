@@ -1,4 +1,4 @@
-package com.olrioq.god.utils
+package com.mavlix.zeus.challenge
 
 import io.flutter.embedding.android.FlutterActivity
 
